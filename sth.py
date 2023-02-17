@@ -1,3 +1,5 @@
+egrp = 'ebokerpbk'
 s = 'h'
 s += 'e'
 s += 'l'
+gkpgkprlk = 'egkgpk['
