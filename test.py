@@ -1,2 +1,3 @@
 s = 'Hello World!'
-s3 = 'wtf'
+s2 = 'Hello and Smile!'
+s = 'wtf'
