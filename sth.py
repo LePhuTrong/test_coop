@@ -1,5 +1,4 @@
-w = 'akfaopk'
 s = 'h'
 s += 'e'
 s += 'l'
-s += 'djksfhdsk'
+s += 'l'
