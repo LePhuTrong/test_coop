@@ -1,1 +1,1 @@
-print('wtf is f**king this and owikpikgpg')
+print('i don t know')
